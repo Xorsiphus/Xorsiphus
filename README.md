@@ -15,9 +15,7 @@
     <a href="https://github.com/Xorsiphus?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat&logo=Java&logoColor=white"></a>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Xorsiphus&theme=dark&show_icons=true&hide_border=false&title_color=00c647&icon_color=FFF&text_color=CCC&border_color=EEE&hide=contribs"></img><br>
-  
-  ![](https://komarev.com/ghpvc/?username=Xorsiphus&color=green)
-  
+    <img alt="Xorsiphus" src="https://badges.pufler.dev/visits/Xorsiphus/Xorsiphus?logo=GitHub&label=visits&color=success&logoColor=white&style=flat"/>
  </p>
 </details>
 <br>
