@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! I am Evgeniy Zhelezkin</samp></h3>
+<h3 align="center"><samp>Hello! I am Evgeniy</samp></h3>
 <p align="center">
   <samp>
     「 Student of the SibFU in computer science 」<br>
