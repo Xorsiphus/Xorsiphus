@@ -14,8 +14,7 @@
     <a href="https://github.com/Xorsiphus?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat&logo=Javascript&logoColor=black"></a>
     <a href="https://github.com/Xorsiphus?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat&logo=Java&logoColor=white"></a>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Xorsiphus&theme=dark&show_icons=true&hide_border=false&title_color=00c647&icon_color=FFF&text_color=CCC&border_color=EEE&hide=contribs"></img><br>
-    <img alt="Xorsiphus" src="https://badges.pufler.dev/visits/Xorsiphus/Xorsiphus?logo=GitHub&label=visits&color=success&logoColor=white&style=flat"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Xorsiphus&theme=dark&show_icons=true&hide_border=false&title_color=00c647&icon_color=FFF&text_color=CCC&border_color=EEE&hide=contribs&include_all_commits=true"></img><br>
  </p>
 </details>
 <br>
